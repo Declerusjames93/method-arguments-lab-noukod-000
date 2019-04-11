@@ -1,5 +1,5 @@
-def introduction(name, greeting)
+def introduction(name, language)
   name = "Josh"
-  greeting = "Hi, my name is Josh."
+  language = "Ruby"
   puts "Hi, my name is #{name}."
 end
